@@ -2,8 +2,6 @@
 
 A [fslides](https://github.com/fslides/fslides) presentation. Every slide is an HTML file in `slides/` — edit them like code.
 
-Originally created by [0trustissues](https://github.com/0trustissues/security-pitch-oct7); this copy is maintained by [cojoe01](https://github.com/cojoe01).
-
 **Watch it:** https://cojoe01.fslides.dev/security-quick-nov12/ — renders straight from this repo; every push to `main` is live within a minute.
 
 ## Contribute
