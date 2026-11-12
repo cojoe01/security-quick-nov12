@@ -54,7 +54,6 @@ module.exports = {
   //   }
   // },
   disabled: [
-    'team.html',
     'problem-orientation.html',
     'unified-platform.html',
     'solution.html',
