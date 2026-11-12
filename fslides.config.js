@@ -56,6 +56,8 @@ module.exports = {
   disabled: [
     'team.html',
     'problem-orientation.html',
+    'unified-platform.html',
+    'closing.html',
     'senses-brain-hands.html',
     'multi-layer-security.html',
     'esql.html',
